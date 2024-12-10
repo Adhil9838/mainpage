@@ -1,0 +1,22 @@
+div{
+    display: inline-block;
+}
+#adu{
+    display: inline-block;
+    float:left;
+}
+#adu img{
+    display: inline-block;
+    height: 200px;
+    border-radius: 50%;
+    height: 500px;
+    margin-left: 20px;
+    width: 100%;
+    margin-top: 20px;
+}
+#adz{
+    display: inline-block;
+    margin-left: 35px;
+    width: 60%;
+    margin-top: 20px;
+}

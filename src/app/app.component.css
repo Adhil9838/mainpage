@@ -1,0 +1,63 @@
+@import"bootstrap/dist/css/bootstrap.css";
+#d1{
+    width: 100%;
+    height: auto;
+    border: 2px solid black;
+}
+header{
+    width: 100%;
+    height: 200px;
+    background-color:#2F191B;
+    display: flex;
+}
+#s1{
+    width:25%;
+    height: 250px;
+}
+#s2{
+    width:70%;
+    height: 250px;
+}
+
+h1{
+    color:#E8D4A3;
+    margin-top: 95px;
+    text-align: center;
+    letter-spacing: 15px;
+    margin-right: 20px;
+}
+#i1{
+    width: 250px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+}
+
+nav{
+    width: 100%;
+    height: 100px;
+    background-color:#52221F;
+}
+nav ul{
+    display : flex;
+    list-style: none;
+    transition: box-shadow .10s;
+}
+nav ul li{
+    margin-top: 12px;
+    margin-left: 90px;
+    padding: 15px;
+    
+}
+a{
+    color:#E2A946;
+}
+nav ul li:hover{
+    background: linear-gradient(0deg, rgba(223,45,253,1) 4%, rgba(255,255,255,1) 43%, rgba(223,45,253,1) 100%);
+
+       border-radius: 30px;
+       
+}
+a{
+    text-decoration: none;
+}
